@@ -779,6 +779,7 @@ body {
         padding: 0px 3px;
         bottom: -6px;
         border: 3px solid var(--color-black);
+        left: 0px;
     }
 
     .name span {
